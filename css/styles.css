@@ -1,0 +1,19 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+.backgroundColor {
+    background-color: #3a7a6c;
+}
+.lightBackground {
+    background-color: #f2fdfb;
+}
+.darkBackground {
+    background-color: #484b4a;
+}
+.alternateTextColor {
+    color: #3a7a6c;
+}
